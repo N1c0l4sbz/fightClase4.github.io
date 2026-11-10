@@ -1,7 +1,6 @@
 # TP4 — Migración a PHP, SSI y SSR
 
-**Proyecto:** Lunar MCA / Impact Fight  
-**Materia:** Programación Web
+**Proyecto:** Impact Fight  
 
 ## Objetivo del trabajo
 
